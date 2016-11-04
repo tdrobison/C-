@@ -10,7 +10,7 @@ using Microsoft.Web.WebPages.OAuth;
 using WebMatrix.WebData;
 using Comments.Filters;
 using Comments.Models;
-
+//Comments controller
 namespace Comments.Controllers
 {
     [Authorize]
